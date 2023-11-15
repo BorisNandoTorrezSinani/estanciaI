@@ -18,7 +18,7 @@
   <form>
     <div class="form-row">
       <div class="form-group col-md-6">
-        <label for="nombre">Name:</label>
+        <label for="nombre">nombre:</label>
         <input type="text" class="form-control" id="nombre" placeholder="Enter your name">
       </div>
       <div class="form-group col-md-6">
